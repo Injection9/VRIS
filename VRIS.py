@@ -11,7 +11,7 @@ verbose=raw_input('Verbosity Level(1-3):')
 verbose=int(verbose)
 writef=raw_input('Write to file(y/n):')
 print writef
-f=open("BMAnet.log","a+")
+f=open("VRIS.log","a+")
 #If statement for checking type
 if router=='1':
     username=raw_input('Username[admin]:')
