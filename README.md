@@ -5,4 +5,5 @@ VRIS currently only supports router types Netgear and Netcore, and only identifi
 ### Installation
 To install VRIS, first clone the project.
 
-Then cd into the directory and run >pip install -r requirements.txt
+Then cd into the directory and run:
+> pip install -r requirements.txt
