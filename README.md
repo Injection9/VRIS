@@ -7,3 +7,5 @@ To install VRIS, first clone the project.
 
 Then cd into the directory and run:
 > pip install -r requirements.txt
+Now you're ready to run:
+> python VRIS.py
